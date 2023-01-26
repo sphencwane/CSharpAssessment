@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6EJSqogJgnO3ec3StGnW1Snb6J72R61q9Pi1iIZ5UR3b4idg9nzw1WXcnqrYIipBgn7anepLRxan6lP4SaXa9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sphe\\Downloads\\CSharpAssessment\\CSharpAssessmentTest\\CSharpAssessmentTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sphe\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Sphe\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Sphe\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Sphe\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
